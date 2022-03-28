@@ -109,4 +109,7 @@ public class Methods {
 
     public void hover(By xpath) {
     }
+
+    public void selectText(By xpath, String yüksek_oylama) {
+    }
 }
